@@ -1,0 +1,37 @@
+# Ant
+bin
+gen
+build
+out
+libs
+local.properties
+project.properties
+
+# Maven
+target
+pom.xml.*
+release.properties
+gen-external-apklibs
+
+# IntelliJ
+.idea
+*.iml
+*.iws
+*.ipr
+classes
+
+# Eclipse
+.checkstyle
+lint.xml
+.classpath
+.project
+.settings
+eclipsebin
+
+# Mac
+.DS_Store
+
+*.*~
+
+tmp
+*.apk
